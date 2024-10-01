@@ -1,0 +1,63 @@
+.main {
+  width: 50%;
+  height: 60%;
+  background-color: darkslategray;
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 25%;
+  margin-bottom: 25%;
+  margin-right: 20%;
+  border-radius: 30px;
+}
+
+.body {
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://rare-gallery.com/uploads/posts/1051416-sunlight-lights-water-minimalism-reflection-blue-simple-dots-dice-light-cloud-weather-hand-atmospheric-phenomenon-computer-wallpaper-atmosphere-of-earth-macro-photograp.jpg");
+  background-position: center;
+}
+
+.text-white {
+  margin-top: 3rem;
+  border-radius: 30rem;
+  margin-left: 8%;
+  float: left;
+}
+
+.img1 {
+  width: 150px;
+  height: 150px;
+  margin-right: 4%;
+}
+
+.text-primary {
+  margin-top: 1rem;
+  border-radius: 30rem;
+  margin-left: 12%;
+}
+
+.hidden {
+  display: none;
+}
+
+.btn-warning {
+  margin-top: 2rem;
+  border-radius: 10px;
+}
+
+.primary {
+  @media (min-width=500px) {
+    margin-left: 10vh;
+  }
+}
+
+.text-danger {
+  margin-left: 7%;
+  margin-top: 5%;
+}
+
+.ch {
+  margin-left: 57%;
+  margin-top: 10%;
+  color: brown;
+}
