@@ -35,3 +35,4 @@ try1.addEventListener("click", () => {
   score2.innerHTML = "0";
   h1tag.innerHTML = "";
 });
+//over
