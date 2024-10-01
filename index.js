@@ -36,3 +36,4 @@ try1.addEventListener("click", () => {
   h1tag.innerHTML = "";
 });
 //over
+//end of code
